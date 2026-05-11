@@ -1,0 +1,12 @@
+requests>=2.31.0
+eth-account>=0.8.0
+msgpack>=1.0
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+PyYAML>=6.0
+SQLAlchemy>=2.0
+python-telegram-bot>=20.7
+APScheduler>=3.10
+pytest>=7.4
+pytest-cov>=4.1
+responses>=0.24
